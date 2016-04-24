@@ -8,4 +8,6 @@ int main(){
 	initGpio(60);
 	gpioDirection(60, 1);
 	gpioValue(60, 1);
+
+	//teste no github
 }
