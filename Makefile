@@ -2,6 +2,7 @@ all: app
 
 INC = -I./inc
 CC = arm-linux-gnueabihf-gcc
+#CC = gcc
 AR = arm-linux-gnueabihf-ar
 
 ARQ = 	gpioInit.o \
